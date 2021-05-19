@@ -4,10 +4,10 @@
 I-LMS means Intelligent Learningb Management System. Thid Project is an attempt to invent Aritificial Intelligence techniques to personalize learning by doing education. The main feature is to trace student learning activity in the scaffold identies student learning difficulties. Learning diagnosis models to recommend fully automated or human powered support to the student.
 
 ### Technologies
-Micro-Services API using Python/Node.js
-React Web and mobile framework
-AWS cloud services
-Data Science/Machine Learning Pipelines
+- Micro-Services API using Python/Node.js
+- React Web and mobile framework
+- AWS cloud services
+- Data Science/Machine Learning Pipelines
 
 
 ### Markdown
