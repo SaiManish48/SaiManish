@@ -9,6 +9,38 @@ I-LMS means Intelligent Learning Management System. This Project is an attempt t
 - AWS cloud services
 - Data Science/Machine Learning Pipelines
 
+### Sprint-1
+
+1.Desinged Prototypes using Just-in-mind application.
+
+### Sprint-2
+
+User Stories:-
+- As a student, I should see a recommendation on the prerequisite learning objectives that I should complete, so that I can do them prior to starting today's modules.
+- As a student, I should click on the learning objective that I want to work on to, so that I can either work on the learning material or take the assessment.
+ 
+### Team members : 
+
+Nirmai, Manish, Neeraj
+ 
+ We started created a navigation bar and created a left and right arrows to navigate to next and previous learning objectives. Then we created two cards one for learning      objective and other for recommendations and also placed two buttons in learning objective section.
+ 
+ ![ilms](https://user-images.githubusercontent.com/72133265/119024437-aea76f00-b9c0-11eb-941d-7175f3bb547c.PNG)
+
+### Sprint-3
+
+User Stories:-
+-As a student, I should see a summary of the course progress on the course home page, so that I understand how much of the course is to be completed.
+
+Team members : Nirmai, Manish, Neeraj
+
+We created a progress bar by which we can understand how much of the course is to be completed.
+
+![ilms1](https://user-images.githubusercontent.com/72133265/119024573-d72f6900-b9c0-11eb-97f6-938525df5ad3.PNG)
+
+
+
+
 
 ### Markdown
 
