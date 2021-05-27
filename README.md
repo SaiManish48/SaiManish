@@ -5,67 +5,41 @@ I-LMS means Intelligent Learning Management System. This Project is an attempt t
 
 ### Sprint-1
 
-## Duration: 
-03-05-2021 to 08-05-2021
-1.Desinged Prototypes using Just-in-mind application.
+Duration: 03 May, 2021 to 08 May, 2021
+
+Plan: To design a prototype for the product.
+
+Technologies: Google Slides, Just in Mind Application, Paint.
+
+Team members : Manish, Nirmai, Neeraj, Satyanarayana, Santhosh, Karthick 
+
+Work Description: Discussed with team members on sketching of the prototype. We all worked on paint for sketching our idea. Presented the sketch to mentor using Google Slides, then by using Just in Mind application we build our prototype for the website. We Split into Two teams.
 
 ### Sprint-2
 
-User Stories:-
-- As a student, I should see a recommendation on the prerequisite learning objectives that I should complete, so that I can do them prior to starting today's modules.
-- As a student, I should click on the learning objective that I want to work on to, so that I can either work on the learning material or take the assessment.
- 
-### Team members : 
+Duration: 10 May, 2021 to 15 May, 2021
 
-Nirmai, Manish, Neeraj
+Plan: We need to build the page that should contain Navigation bar with learning objective name, Learning objective description on the left with two buttoms and recommendations for that learning objective on right.
+
+Technologies: React JS, HTML, CSS, Bootstrap
+
+Team members: Manish, Nirmai, Neeraj
  
- We started created a navigation bar and created a left and right arrows to navigate to next and previous learning objectives. Then we created two cards one for learning      objective and other for recommendations and also placed two buttons in learning objective section.
+ Work Description: Intially we gone through React JS resources. Then created a navigation bar with left and right arrows to navigate to next and previous learning objectives and back buutton to redirect to landing page by using React JS components, we used Bootstrap for styling. Then we created two cards by React Card component one for learning objective and other for recommendations as well as we placed two buttons in learning objective section one is Start Learning and other is Take assessment.
+ 
  
  ![ilms](https://user-images.githubusercontent.com/72133265/119024437-aea76f00-b9c0-11eb-941d-7175f3bb547c.PNG)
 
 ### Sprint-3
 
-User Stories:-
--As a student, I should see a summary of the course progress on the course home page, so that I understand how much of the course is to be completed.
+Duration: 17 May, 2021 to 22 May, 2021
 
-Team members : Nirmai, Manish, Neeraj
+Plan: To build a Progress bar for the course, it should reprsent how much the course is completed for the user. Update the Enginnering work. 
 
-We created a progress bar by which we can understand how much of the course is to be completed.
+Technologies: Github, ReactJs, Bootstrap.
 
-![ilms1](https://user-images.githubusercontent.com/72133265/119024573-d72f6900-b9c0-11eb-97f6-938525df5ad3.PNG)
+Team members: Manish,Nirmai, Neeraj
 
+Work Description: Integrated sprint 2 plan of both teams. We created a progress bar by which user can understand how much the course has completed it has done by using React component Progress bar. It changes Dynamically from user to user based on theor completion of their learning Objectives. Later we pushed our code into Github branch that we created for this Sprint. 
 
-
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SaiManish48/SaiManish/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![ilms1](https://user-images.githubusercontent.com/72133265/119877379-96969900-bf46-11eb-8512-3c836aed62d0.PNG)
