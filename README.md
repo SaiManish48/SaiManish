@@ -15,6 +15,10 @@ Team members : Manish, Nirmai, Neeraj, Satyanarayana, Santhosh, Karthick
 
 Work Description: Discussed with team members on sketching of the prototype. We all worked on paint for sketching our idea. Presented the sketch to mentor using Google Slides, then by using Just in Mind application we build our prototype for the website. We Split into Two teams.
 
+
+![sai](https://user-images.githubusercontent.com/72133265/120311869-a40ca400-c2f5-11eb-8645-d95c6b015b0c.png)
+
+
 ### Sprint-2
 
 Duration: 10 May, 2021 to 15 May, 2021
@@ -43,3 +47,18 @@ Team members: Manish,Nirmai, Neeraj
 Work Description: Integrated sprint 2 plan of both teams. We created a progress bar by which user can understand how much the course has completed it has done by using React component Progress bar. It changes Dynamically from user to user based on theor completion of their learning Objectives. Later we pushed our code into Github branch that we created for this Sprint. 
 
 ![ilms1](https://user-images.githubusercontent.com/72133265/119877379-96969900-bf46-11eb-8512-3c836aed62d0.PNG)
+
+### Sprint-4
+
+Duration: 24 May, 2021 to  29 May. 2021
+
+Plan: To build a pagination for the learning objectives, Complete the Documentation for the code.
+
+Technologies: ReactJS, Bootstrap, Visual Studio.
+
+Team members: Manish, Nirmai
+
+Work Description: Intially gone through the resources for pagination then started implementing. We got Pagination and adjusted on the top center of the page by using Bootstap for styling and ReactJs. Then we tried to display the static data by fetching it from the JSON file. We helped other team in created the character by canva.
+
+![p3](https://user-images.githubusercontent.com/72133265/120310426-04024b00-c2f4-11eb-8805-c9e4677c9158.PNG)
+
