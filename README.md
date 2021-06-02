@@ -54,7 +54,7 @@ Duration: 24 May, 2021 to  29 May. 2021
 
 Plan: To build a pagination for the learning objectives, Complete the Documentation for the code.
 
-Technologies: ReactJS, Bootstrap, Visual Studio.
+Technologies: ReactJS, Bootstrap, Visual Studio. 
 
 Team members: Manish, Nirmai
 
@@ -67,12 +67,7 @@ Work Description: Intially gone through the resources for pagination then starte
 <br>
 
 <a href="https://github.com/SaiManish48">
- <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/          username=SaiManish48&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/SaiManish48">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=SaiManish48&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34"/>
 </a>
 
-<br>
 <br>
