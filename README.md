@@ -62,3 +62,17 @@ Work Description: Intially gone through the resources for pagination then starte
 
 ![p3](https://user-images.githubusercontent.com/72133265/120310426-04024b00-c2f4-11eb-8805-c9e4677c9158.PNG)
 
+## &#x1f4c8; GitHub Stats
+
+<br>
+
+<a href="https://github.com/SaiManish48">
+ <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/          username=SaiManish48&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/SaiManish48">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=SaiManish48&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34"/>
+</a>
+
+<br>
+<br>
