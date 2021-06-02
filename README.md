@@ -62,7 +62,7 @@ Work Description: Intially gone through the resources for pagination then starte
 
 ![p3](https://user-images.githubusercontent.com/72133265/120310426-04024b00-c2f4-11eb-8805-c9e4677c9158.PNG)
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8;  My GitHub Stats
 
 <br>
 
