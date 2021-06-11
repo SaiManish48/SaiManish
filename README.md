@@ -64,7 +64,16 @@ Work Description: Intially gone through the resources for pagination then starte
 
 ### Sprint-5
 
-Need to Updated
+Duration: 31 May,2021 to 5 June,2021
+
+Plan: To navigate from one page to another by clicking on a button and integrating all codes and to start working on backend.
+
+Technologies : ReactJs, Visual studio.
+
+Team members: Manish, Nirmai
+
+Work Description : Intially gone through the resources on backend and created GCP account and worked on few basic commands on running hello world App and also continued working on front end parellely and successful with the navigation of buttons from one page to another
+
 
 ## &#x1f4c8;  My GitHub Stats
 
