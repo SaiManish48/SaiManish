@@ -74,6 +74,11 @@ Team members: Manish, Nirmai
 
 Work Description : Intially gone through the resources on backend and created GCP account and worked on few basic commands on running hello world App and also continued working on front end parellely and successful with the navigation of buttons from one page to another
 
+
+https://user-images.githubusercontent.com/72133265/121786256-52f58d80-cbdc-11eb-9717-613b5e208cb3.mp4
+
+
+
 ### Sprint-6
 
 Duration: 7 June,2021 to 12 June,2021
