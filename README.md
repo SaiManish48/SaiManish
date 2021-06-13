@@ -87,7 +87,7 @@ Plan: To implement the menu bar, In this user need to get all modules names and 
 
 Technologies : ReactJs, Visual studio, Bootstrap.
 
-Team members: Manish, Nirmai
+Team members: Manish, Nirmai, Neeraj
 
 Work Description :  We started with the implementation the Menu bar to list all the modules for the course, continued our work to display list of recommendations to the user in the form of dropdown. The data we fetched is from JSON file which is stoed in Github. Finally we added comptency level.
 
